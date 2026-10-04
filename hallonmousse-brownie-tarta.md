@@ -18,6 +18,7 @@ Receptet är ihopsatt av tre recept:
 ### Browniebotten
 
 - 50 g rostade hasselnötter (kan uteslutas)
+- 50 g hackad mörk choklad 
 - 125 g smör
 - 1 dl kakao
 - 2 ägg
@@ -50,15 +51,15 @@ Receptet är ihopsatt av tre recept:
 ### 1. Browniebotten
 
 1. Sätt ugnen på 175°C (160°C varmluft). Klä botten på springformen med bakplåtspapper och smörj kanten.
-2. Hacka hasselnötterna. Smält smöret och rör ner kakaon.
-3. Vispa ägg och socker. Rör ner kakaosmöret, salt, vanilj, nötter och mjöl blandat med bakpulver.
+2. Hacka hasselnötterna och chokladen. Smält smöret och rör ner kakaon.
+3. Vispa ägg och socker. Rör ner kakaosmöret, salt, vanilj, nötter, choklad och mjöl blandat med bakpulver.
 4. Bred ut smeten i formen. Grädda i mitten av ugnen i ca 12–15 min. Kanterna ska vara ganska fasta men mitten fortfarande riktigt kladdig.
 5. Låt svalna helt i formen. Lossa inte formen, den ska användas till moussen.
 
 ### 2. Hallonmousse
 
 1. Blötlägg gelatinbladen i kallt vatten i ca 5 min.
-2. Lägg hallon och socker i en kastrull. Låt det sjuda försiktigt under omrörning i ca 10–15 min, tills en del av vätskan har kokat bort och moset har tjocknat. Det ska ha minskat med ungefär en tredjedel.
+2. Lägg hallon och socker i en kastrull. Låt det sjuda försiktigt under omrörning i ca 15–20 min, tills en del av vätskan har kokat bort och moset har tjocknat. Det ska ha minskat med ungefär en tredjedel.
 3. Passera gärna moset genom en sil om du vill slippa kärnorna.
 4. Dra kastrullen från plattan. Krama ur gelatinbladen och rör ner dem i det varma moset tills de har löst sig helt.
 5. Kyl moset i kallt vattenbad under omrörning tills det är rumsvarmt (ca 25°C). Det ska vara svalt men inte ha börjat stelna.
