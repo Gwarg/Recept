@@ -52,7 +52,7 @@ Receptet är ihopsatt av tre recept:
 1. Sätt ugnen på 175°C (160°C varmluft). Klä botten på springformen med bakplåtspapper och smörj kanten.
 2. Hacka hasselnötterna. Smält smöret och rör ner kakaon.
 3. Vispa ägg och socker. Rör ner kakaosmöret, salt, vanilj, nötter och mjöl blandat med bakpulver.
-4. Bred ut smeten i formen. Grädda i mitten av ugnen i ca 18–22 min. Kanterna ska vara fasta men mitten fortfarande lite kladdig (innertemperatur 88–92°C).
+4. Bred ut smeten i formen. Grädda i mitten av ugnen i ca 12–15 min. Kanterna ska vara ganska fasta men mitten fortfarande riktigt kladdig.
 5. Låt svalna helt i formen. Lossa inte formen, den ska användas till moussen.
 
 ### 2. Hallonmousse
