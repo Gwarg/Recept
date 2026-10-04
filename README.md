@@ -4,10 +4,15 @@ En personlig samling recept som jag vill spara. Mest mat, men ibland även en dr
 
 Varje recept är en egen Markdown-fil (`.md`).
 
+## Recept
+
+- [Hallonmousse Brownie Tårta med Choklad Ganache](hallonmousse-brownie-tarta.md)
+
 ## Lägga till ett recept
 
 1. Skapa en ny `.md`-fil som heter som rätten, t.ex. `pannkakor.md`.
 2. Använd mallen nedan som utgångspunkt.
+3. Lägg till en länk till receptet i listan under [Recept](#recept).
 
 ## Receptmall
 
